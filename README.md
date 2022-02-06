@@ -119,7 +119,6 @@ docker run -it -p 3000:3000 agarioclone_agar
 ## For Developers
  - [Game Architecture](https://github.com/huytd/agar.io-clone/wiki/Game-Architecture) to understand how the backend works.
  - If you want to start your own project, I recommend you use [this template](https://github.com/huytd/node-online-game-template). Happy developing!
- -
 
 ## TODOs
  We have an explicit [TODO](https://github.com/huytd/agar.io-clone/wiki/Coming-Features) list for the all the features we aim to develop in the future. Feel free to contribute, we'll be more than grateful.
